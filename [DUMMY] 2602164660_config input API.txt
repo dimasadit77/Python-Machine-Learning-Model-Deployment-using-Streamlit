@@ -1,0 +1,49 @@
+variasi input (after encode -> before encode)
+
+{
+  "age": 40, 
+  "job": 9 = technician, 
+  "marital": 2 = single,
+  "education": 7 = unknown,
+  "default": 1 = unknown,
+  "housing": 0 = no,
+  "loan": 2 = yes,
+  "contact": 1 = telephone,
+  "duration": 300,
+  "campaign": 1,
+  "pdays": 999,
+  "previous": 1,
+  "poutcome": 1 = nonexistent
+}
+
+{
+  "age": 35, 
+  "job": 1 = blue-collar, 
+  "marital": 1 = married,
+  "education": 6 = university.degree,
+  "default": 0 = no,
+  "housing": 2 = yes,
+  "loan": 0 = no,
+  "contact": 0 = cellular,
+  "duration": 72,
+  "campaign": 2,
+  "pdays": 3,
+  "previous": 1,
+  "poutcome": 0 = failure
+}
+
+{
+  "age": 31, 
+  "job": 7 = services, 
+  "marital": 1 = married,
+  "education": 5 = professional.course,
+  "default": 0 = no,
+  "housing": 2 = yes,
+  "loan": 0 = no,
+  "contact": 1 = telephone,
+  "duration": 125,
+  "campaign": 2,
+  "pdays": 6,
+  "previous": 0,
+  "poutcome": 2 = success
+}
